@@ -32,10 +32,10 @@ c)	Modulation index greater than 1
 
 
 # GRAPH:
-
+<img width="1156" height="1600" alt="image" src="https://github.com/user-attachments/assets/6cda3098-8a3f-42ad-8789-860ba5031847" />
 
 # TABULATION:
-
+<img width="1600" height="1014" alt="image" src="https://github.com/user-attachments/assets/93678192-c1da-4ea3-8be8-40fad6b124eb" />
 
 # RESULT:
 Thus the amplitude modulation and demodulation is experimentally done and the output is verified.
